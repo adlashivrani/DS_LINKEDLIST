@@ -1,0 +1,15 @@
+1001	Jennifer_Crawford	Female	Engineer	32
+1002	Skylar_Sean		Female	Author	        25
+1003	Angelina_John	    Female	Doctor	        45
+1004	Karen_Tatum	    Female	Doctor	        34
+1005	Tanya_Brown	    Female	Engineer	34
+1006	Frank_Bryce	    Male	Doctor	        50
+1007	Jason_Frank	    Male	Doctor	        49
+1008	Jimmy_White	    Male	Author	        33
+1009	Lenny_Bruce	    Male	Engineer	37
+1010	Lara_Kilarney	    Female	Doctor	        49
+1011	Martha_Stalwart	    Female	Politician	41
+1012	Ron_Wesley	    Male	Driver	        35
+1013	Minnie_Drover	    Female	Actor	        35
+1014	Tom_Fullerton	    Male	Actor	        34
+1015	Carl_Jackson	    Male	Manager	        60
